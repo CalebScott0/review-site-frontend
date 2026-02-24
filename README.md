@@ -61,6 +61,14 @@ npm install
 ```
 Start the development server:
 ```zsh
-npm run
+npm run dev
+```
+Tech Stack
+---
+- React
+- Redux
+- Tailwind CSS
+- JavaScript
+- REST APIs
 
 https://reviewguru.netlify.app
