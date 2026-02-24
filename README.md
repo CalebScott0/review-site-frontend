@@ -1,11 +1,8 @@
 # Business Review Platform – Frontend
 
-A React-based web application that allows users to browse, search,  
-and filter business reviews through a clean, responsive interface.  
+A React-based web application that allows users to browse, search, and filter business reviews through a clean, responsive interface.  
 
-This project serves as the client-side component of a full-stack  
-review system and communicates with a RESTful backend API  
-to retrieve and display data dynamically.
+This project serves as the client-side component of a full-stack review system and communicates with a RESTful backend API to retrieve and display data dynamically.
 
 ---
 
@@ -21,19 +18,13 @@ to retrieve and display data dynamically.
 
 ## Overview
 
-The goal of this project was to design a modern frontend  
-for a business review platform that feels intuitive and responsive.  
+The goal of this project was to design a modern frontend for a business review platform that feels intuitive and responsive.  
 
-Users can browse listings, filter by location,  
-and interact with dynamically rendered review data  
-pulled from a backend service.
+Users can browse listings, filter by location, and interact with dynamically rendered review data pulled from a backend service.
 
-One challenge was handling asynchronous API requests  
-while maintaining consistent application state  
-across filtered pages.  
+One challenge was handling asynchronous API requests while maintaining consistent application state across filtered pages.  
 
-Implemented Redux improved state predictability  
-and simplified data flow.
+Implemented Redux improved state predictability and simplified data flow.
 
 ---
 
