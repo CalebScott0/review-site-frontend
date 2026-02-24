@@ -30,13 +30,10 @@ pulled from a backend service.
 
 One challenge was handling asynchronous API requests  
 while maintaining consistent application state  
-across multiple components.  
+across filtered pages.  
 
-Implementing Redux improved state predictability  
+Implemented Redux improved state predictability  
 and simplified data flow.
-
-Future improvements include search optimization,  
-improved accessibility, and UI refinement.
 
 ---
 
