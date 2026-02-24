@@ -1,5 +1,66 @@
-## Setup and run locally:
+# Business Review Platform – Frontend
 
-`cd Review-Site-App && npm install && npm run dev`
+A React-based web application that allows users to browse, search,  
+and filter business reviews through a clean, responsive interface.  
+
+This project serves as the client-side component of a full-stack  
+review system and communicates with a RESTful backend API  
+to retrieve and display data dynamically.
+
+---
+
+## Highlights
+
+- Dynamic UI rendering using React  
+- Centralized state management with Redux  
+- REST API integration for real-time data  
+- Geospatial filtering for location-based search  
+- Responsive styling with Tailwind CSS  
+
+---
+
+## Overview
+
+The goal of this project was to design a modern frontend  
+for a business review platform that feels intuitive and responsive.  
+
+Users can browse listings, filter by location,  
+and interact with dynamically rendered review data  
+pulled from a backend service.
+
+One challenge was handling asynchronous API requests  
+while maintaining consistent application state  
+across multiple components.  
+
+Implementing Redux improved state predictability  
+and simplified data flow.
+
+Future improvements include search optimization,  
+improved accessibility, and UI refinement.
+
+---
+
+## Screenshot
+
+
+
+---
+
+## Installation & Setup
+
+Clone the repository:
+
+```zsh
+git clone https://github.com/CalebScott0/review-site-frontend.git
+cd review-site-frontend
+```
+
+Install dependencies:
+```zsh
+npm install
+```
+Start the development server:
+```zsh
+npm run
 
 https://reviewguru.netlify.app
