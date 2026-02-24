@@ -38,7 +38,7 @@ and simplified data flow.
 ---
 
 ## Screenshot
-
+![review-site screenshot](./Review-Site-App/assets/screenshot.png)
 
 
 ---
